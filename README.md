@@ -6,11 +6,11 @@
 
 This is the final project of the Main Rails curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
 
-- The objective is to build a facebook clone with core features of the platform – users, profiles, “friending”, posts, news feed, and “liking”. Sign-in with the real Facebook by using Omniauth and Devise is also implemented.
+- The objective is to build a facebook clone with core features of the platform – users, profiles, "friending", posts, news feed, and “liking”. The ability to sign-in with a user's real Facebook account by using OmniAuth and Devise has also been implemented.
 
 #### [Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project)
 
-#### [View in broswer](https://f-b-clone.herokuapp.com/)
+#### [View in browser](https://f-b-clone.herokuapp.com/)
 
 ## Prerequisites
 
@@ -57,5 +57,14 @@ If you are working on adding features, PRs, or bugfixes, this section should hel
 
 ## Authors
 
-- [@Torres-ssf](https://github.com/Torres-ssf)
+👤 **Sérgio Torres**
+
+- Github: [Torres-ssf](https://github.com/Torres-ssf)
+- Twitter: [@torres_ssf](https://twitter.com/torres_ssf)
+- Linkedin: [torres-ssf](https://www.linkedin.com/in/torres-ssf/)
+
+👤 **Bolah Ahmed**
+
 - [@bolah2009](https://github.com/bolah2009/)
+- Twitter: [@bolah2009](https://twitter.com/bolah2009)
+- Linkedin: [bolah2009](https://www.linkedin.com/in/bolah2009/)
